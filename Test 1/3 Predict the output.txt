@@ -1,0 +1,14 @@
+Figure out the output
+int x = 10;
+while(x >= 0) {
+    x = x - 1;
+    print(x);
+    x--;
+}
+
+
+This problem may have one or more correct answers
+97531
+97531-1 - ANSWER 
+10864
+10987654321
