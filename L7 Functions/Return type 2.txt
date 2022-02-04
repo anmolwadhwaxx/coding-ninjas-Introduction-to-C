@@ -1,0 +1,8 @@
+Let’s say the problem is - You will be given two numbers(both integers) and you need to return their sum.
+For this problem, what should be the return type of function -
+
+This problem has only one correct answer
+int - ANSWER
+boolean
+char
+void

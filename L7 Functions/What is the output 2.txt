@@ -1,0 +1,17 @@
+What will be the output of the following code ?
+void demo(int a, int b){
+    cout << a << " " << b;
+}
+
+int main() {
+    int a = 5;
+    int b = 15; 
+    demo(a);
+}
+
+
+This problem has only one correct answer
+5 0
+Compilation Error - ANSWER
+5 15
+None of these

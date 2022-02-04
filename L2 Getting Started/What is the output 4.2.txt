@@ -1,0 +1,6 @@
+What will be the output of following statement ?
+int i = 'c';
+cout << i;
+
+Answer
+99

@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std; 
+int main() {
+    int a = 10;
+    while(a > 5) {
+        int a = 1;
+        cout << a << " ";
+        a--;
+    }
+}
+
+
+This problem has only one correct answer
+10 9 8 7 6
+1 1 1 1 1
+Error
+Infinite loop - ANSWER

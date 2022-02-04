@@ -1,0 +1,5 @@
+What will be the output of following statement ?
+ cout << (‘a’ + 1);
+
+Answer
+98

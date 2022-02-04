@@ -1,0 +1,7 @@
+What is the return type of a method that does not returns any value ?
+
+This problem has only one correct answer
+int
+double
+char
+void - ANSWER

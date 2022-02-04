@@ -1,0 +1,11 @@
+for(int i = 1; i < 5; i = i + 1){
+    cout << i << " ";
+    i = i - 1;
+}
+
+
+This problem has only one correct answer
+1 2 3 4
+Infinite 1s - ANSWER
+Compilation error
+None of these

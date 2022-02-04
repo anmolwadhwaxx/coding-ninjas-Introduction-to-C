@@ -1,0 +1,5 @@
+Compiler assigns a garbage value to an uninitialised local variable in C++ Programming ?
+
+This problem has only one correct answer
+true - ANSWER
+false

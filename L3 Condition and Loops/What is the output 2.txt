@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main() {
+    int x = 15;
+    if(x <= 15) {
+        cout << "Inside if ";
+    } else if(x == 15) {
+        cout << "Inside else if ";
+    }
+    cout << x;
+}
+
+This problem has only one correct answer
+Inside if
+15
+Inside if Inside else if 15
+Inside if 15 - ANSWER

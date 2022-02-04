@@ -1,0 +1,16 @@
+What will be the output ?
+#include <iostream>
+using namespace std;   
+int main()
+{
+    double a = 6 / 4;
+    int b  = 6 / 4;
+    double c = a + b;
+    cout << c;
+}
+
+This problem has only one correct answer
+3
+1.5
+2 - ANSWER
+2.5

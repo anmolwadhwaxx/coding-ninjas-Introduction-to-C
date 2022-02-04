@@ -1,0 +1,6 @@
+What will be the output of following statements -
+bool a = true;
+cout << a;
+
+Answer
+1

@@ -1,0 +1,7 @@
+Which of the following data type stores longest decimal number ?
+
+This problem has only one correct answer
+long
+float
+double - ANSWER 
+short
